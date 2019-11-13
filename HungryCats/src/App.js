@@ -7,7 +7,6 @@ import { makeStyles } from '@material-ui/core/styles';
 import Grid from '@material-ui/core/Grid';
 import firebase from 'firebase/app';
 import 'firebase/database';
-
 const firebaseConfig = {
   apiKey: "AIzaSyD3nnHJp02-ZeipmqAD60PjVr1vcIcJpfY",
   authDomain: "react-shopping-cart-7d1d3.firebaseapp.com",
